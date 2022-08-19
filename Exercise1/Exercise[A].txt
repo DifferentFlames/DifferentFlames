@@ -1,0 +1,6 @@
+‘3.15’ char constant are single digit 
+35,550 int constant cannot contain special symbols
+‘eLearning’ char constant are single alphabet only 
+‘Quest’ char constant are single alphabet only
+4 6 5 2 no space is allowed between a single integer constant
+ 

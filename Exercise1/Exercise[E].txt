@@ -1,0 +1,28 @@
+(a)
+int main(){
+int a; float b; int c;
+a = 25; b=3.24; c=a+b*b-35;
+}
+it is not a vaild code we havent included stdio.h 
+(b) #include<stdio.h>
+int main(){
+int a = 35; float b = 3.24;
+printf("%d %f %d", a, b+1.5, 235);
+}
+it is a vaild code
+(c)#include<stdio.h>
+int main(){
+int a, b, c;
+scanf("%d %d %d", a, b, c);
+}
+it is not a valid code as we havent typed ampersent in it
+(d)#include<stdio.h>
+int main(){
+int m1, m2, m3
+printf('Enter the values of marks in 3 subjects")
+.
+.
+}
+it is not a valid code we havent ended any statement
+
+}

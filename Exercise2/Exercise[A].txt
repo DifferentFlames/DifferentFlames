@@ -1,0 +1,13 @@
+(a) valid
+(b) valid
+(c) valid
+(d) invalid  argument are passed right to left so 
+(e) invalid we can write a*a*a
+(f) valid
+(g) valid
+(h) valid
+(i) valid
+(j) invalid  there is no divide symbol just the /
+(k) invalid arguments are passed right to left
+(l) valid
+(m) invalid char contains only one character

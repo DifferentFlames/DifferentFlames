@@ -1,0 +1,11 @@
+B'day - no special symbol is allowed except underscore
+int - keyword should not be used as variable names
+$hello - variables must start with alphabet or underscore also $ caanot be used in variable name
+#HASH - variables must start with alphabet or underscore also # caanot be used in variable name
+dot. - no special symbol except _ 
+_main() - no special symbol except _
+total% - no special symbol except _
+1st - must start with character or _
+stack-queue - no special symbols except _
+variable name - cannot leave space between a variable name
+%name - no special symbol except _
