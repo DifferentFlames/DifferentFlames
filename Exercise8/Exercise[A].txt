@@ -1,0 +1,4 @@
+(a) a function can only return one value at a time so the code is wrong
+(b)the prototype was not written and the void return type so it can't return
+(c)function without a return type will give error
+(d)function cannot be made in another function

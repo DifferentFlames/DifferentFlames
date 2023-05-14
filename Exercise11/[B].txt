@@ -1,0 +1,5 @@
+(a)No error the compiler would treat it as integer long
+(b)no error output -56
+(c)there is no long float only long double
+(d) no error output 0 0
+ 

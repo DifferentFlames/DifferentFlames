@@ -1,0 +1,17 @@
+(a) 
+main i = 0
+val i = 100
+main i = 101
+val i = 100  //the global variable changed to 100 as the function run 
+(b)
+count = 5
+count = 4
+count = 3
+count = 2
+count = 1
+(c)
+1 1`1
+1 1 2
+(d)
+30 
+20

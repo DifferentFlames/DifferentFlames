@@ -1,0 +1,3 @@
+(a) an infinite loop of the line 
+(b) it will print the line one time because of exit statement 
+if the exit statement wasent there it would have been an infinite loop

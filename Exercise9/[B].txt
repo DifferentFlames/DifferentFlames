@@ -1,0 +1,3 @@
+(a)no errors
+(b)no errors
+(c)we have declared z as a pointer we cannot store anything else in it
