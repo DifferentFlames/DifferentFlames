@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=differentflames" alt="differentflames" /></a> </p>
 
-- 🔭 I’m currently working on **BlockChain**
+- 🔭 I’m currently working on **WebDevelopment**
 
-- 🌱 I’m currently learning **JavaFX**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on **.net**
 
